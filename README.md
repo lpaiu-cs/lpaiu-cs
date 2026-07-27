@@ -41,27 +41,3 @@ Search, adaptation, and deterministic game AI.<br>
 **🌌 Physics**<br>
 Spacetime, causality, and the structure of the physical world.<br>
 시공간과 인과성, 그리고 물리적 세계의 구조.
-
-<br>
-
-## Selected Work
-
-- **[osk-system](https://github.com/lpaiu-cs/osk-system)**<br>
- MCP memory runtime for LLM agents<br>
- LLM 에이전트를 위한 MCP 메모리 런타임
- 
-- **[staged-cognition](https://github.com/lpaiu-cs/Staged-Cognition)**<br>
-Research agent with a neuroscience architecture built on a base LM<br>
-뇌과학적 구조의 실험적 에이전트
-
-- **[causal-spacetime](https://github.com/lpaiu-cs/causal-spacetime)**<br>
-Causal spacetime simulation lab<br>
-인과적 시공간 시뮬레이션 실험실
-
-- **[entropy-arrow](https://github.com/lpaiu-cs/entropy-arrow)**<br>
-Entropy and the arrow of time simulation lab<br>
-시간의 화살로서의 엔트로피 실험실
-
-- **[root-cause-gates](https://github.com/lpaiu-cs/root-cause-gates)**<br>
-Skills for validating changes before they land<br>
-변경 전에 검증하는 스킬 모음
