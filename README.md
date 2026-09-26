@@ -13,7 +13,7 @@ Computer Science & Engineering @ Korea University · Seoul, Korea
 ![Profile views](https://komarev.com/ghpvc/?username=lpaiu-cs&label=Profile%20views&color=0969da&style=flat-square)
 [![Followers](https://img.shields.io/github/followers/lpaiu-cs?label=Followers&style=flat-square&logo=github&labelColor=1f2328&color=0969da)](https://github.com/lpaiu-cs?tab=followers)
 [![Stars](https://img.shields.io/github/stars/lpaiu-cs?label=Stars&style=flat-square&logo=github&labelColor=1f2328&color=0969da)](https://github.com/lpaiu-cs?tab=repositories&sort=stargazers)
-[![Email](https://img.shields.io/badge/Email-1f2328?style=flat-square&logo=gmail&logoColor=white)](mailto:lpaiu-cs@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1f2328?style=flat-square&logo=gmail&logoColor=white)](mailto:lpaiu.cs@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-1f2328?style=flat-square&logo=rss&logoColor=white)](https://lpaiu-cs.github.io/obsidian_study/)
 
 </div>
