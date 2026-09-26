@@ -12,7 +12,7 @@ Computer Science & Engineering @ Korea University · Seoul, Korea
 
 ![Profile views](https://komarev.com/ghpvc/?username=lpaiu-cs&label=Profile%20views&color=0969da&style=flat-square)
 [![Followers](https://img.shields.io/github/followers/lpaiu-cs?label=Followers&style=flat-square&logo=github&labelColor=1f2328&color=0969da)](https://github.com/lpaiu-cs?tab=followers)
-[![Stars](https://img.shields.io/github/stars/lpaiu-cs?label=Stars&style=flat-square&logo=github&labelColor=1f2328&color=0969da)](https://github.com/lpaiu-cs?tab=repositories&sort=stargazers)
+[![Stars](https://img.shields.io/github/stars/lpaiu-cs?label=Stars&style=flat-square&labelColor=1f2328&color=0969da&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBvbHlnb24gcG9pbnRzPSIxMi4wMCwyLjMwIDE0LjU5LDkuMjQgMjEuOTksOS41NiAxNi4xOCwxNC4xNiAxOC4xNywyMS4yOSAxMi4wMCwxNy4yMCA1LjgzLDIxLjI5IDcuODIsMTQuMTYgMi4wMSw5LjU2IDkuNDEsOS4yNCIgZmlsbD0iI2UzYjM0MSIgc3Ryb2tlPSIjZTNiMzQxIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D)](https://github.com/lpaiu-cs?tab=repositories&sort=stargazers)
 [![Email](https://img.shields.io/badge/Email-1f2328?style=flat-square&logo=gmail&logoColor=white)](mailto:lpaiu.cs@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-1f2328?style=flat-square&logo=rss&logoColor=white)](https://lpaiu-cs.github.io/obsidian_study/)
 
