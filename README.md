@@ -30,19 +30,19 @@ I'm a Computer Science student specializing in AI. I'm interested in how humans 
 
 **🧠 Agent memory & knowledge systems** &nbsp;→&nbsp; [osk-system](https://github.com/lpaiu-cs/osk-system)<br>
 How agents retain, retrieve, and revise knowledge over long-running work — through structured memory, source grounding, and human review.<br>
-<sub>구조화된 기억, 출처 근거, 사람의 검토를 통해 에이전트가 장기 작업에서 지식을 유지·인출·수정하는 방식.</sub>
+구조화된 기억, 출처 근거, 사람의 검토를 통해 에이전트가 장기 작업에서 지식을 유지·인출·수정하는 방식.
 
 **🤖 Cognitive architectures & context engineering** &nbsp;→&nbsp; [agent-agora](https://github.com/lpaiu-cs/agent-agora) · [latent-delegation](https://github.com/lpaiu-cs/latent-delegation)<br>
 Long-horizon agents with structured memory graphs, reflection, retrieval and social state modeling.<br>
-<sub>초장기 실행 에이전트를 위한 구조화된 기억, 성찰, 인출, 사회적 상태 모델링.</sub>
+초장기 실행 에이전트를 위한 구조화된 기억, 성찰, 인출, 사회적 상태 모델링.
 
 **♟ Intelligent systems** &nbsp;→&nbsp; [ModalChess](https://github.com/lpaiu-cs/ModalChess) · [lolChess](https://github.com/lpaiu-cs/lolChess)<br>
 Search, adaptation, and deterministic game AI.<br>
-<sub>탐색과 적응, 결정론적 게임 AI.</sub>
+탐색과 적응, 결정론적 게임 AI.
 
 **🌌 Physics** &nbsp;→&nbsp; [causal-spacetime](https://github.com/lpaiu-cs/causal-spacetime) · [entropy-arrow](https://github.com/lpaiu-cs/entropy-arrow) · [self-mass-unobservability](https://github.com/lpaiu-cs/self-mass-unobservability)<br>
 Spacetime, causality, and the structure of the physical world.<br>
-<sub>시공간과 인과성, 그리고 물리적 세계의 구조.</sub>
+시공간과 인과성, 그리고 물리적 세계의 구조.
 
 <br>
 
